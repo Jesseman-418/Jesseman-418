@@ -1,7 +1,6 @@
 
 ## Hey there! 👋 Welcome 
-
-<img align="right" alt="coding" width="300" src="https://tenor.com/buKVr.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 ### About Me
 
