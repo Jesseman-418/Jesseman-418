@@ -1,5 +1,6 @@
 
 ## Hey there! 👋 Welcome.
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 ### About Me
 
