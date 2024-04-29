@@ -7,7 +7,6 @@ I'm Jesseman, a passionate full-stack web developer with a love for building coo
 <img align="right" alt="coding" width="300" src="https://tenor.com/buKVr.gif">
 
 ## Let's Connect!
-
 You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesseman-devamirtham-n-93944a278)
