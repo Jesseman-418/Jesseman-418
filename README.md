@@ -1,10 +1,9 @@
 
-## Hey there! 👋 Welcome 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+## Hey there! 👋 Welcome.
 
 ### About Me
 
--Full-Stack Developer
+<>Full-Stack Developer
 
 ### Let's Connect!
 You can find me on:
