@@ -5,6 +5,7 @@
 ### About Me
 
 <>Full-Stack Developer
+<>AI/ML Enthusiast - GenAI
 
 ### Let's Connect!
 You can find me on:
