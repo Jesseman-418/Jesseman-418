@@ -30,14 +30,3 @@ You can find me on:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ---
-
-## Programming GIFs
-
-Here are some awesome programming GIFs to keep you motivated:
-
-![Coding GIF 1](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Coding GIF 2](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-![Coding GIF 3](https://media.giphy.com/media/l2JdVpb0Wy6h2/giphy.gif)
-
-Feel free to use them in your projects or just for fun! Happy coding!
-
