@@ -1,13 +1,13 @@
 
-# Hey there! 👋 Welcome 
+## Hey there! 👋 Welcome 
 
 <img align="right" alt="coding" width="300" src="https://tenor.com/buKVr.gif">
 
-## About Me
+### About Me
 
---Full-Stack Developer
+-Full-Stack Developer
 
-## Let's Connect!
+### Let's Connect!
 You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesseman-devamirtham-n-93944a278)
