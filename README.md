@@ -4,7 +4,7 @@
 
 I'm Jesseman, a passionate full-stack web developer with a love for building cool things with code. I enjoy working on a variety of projects and learning new technologies along the way. Feel free to explore my repositories and connect with me!
 
-<img align="right" alt="coding" width="300" src="https://tenor.com/view/code-coding-computer-gif-19684211">
+<img align="right" alt="coding" width="300" src="[https://tenor.com/view/code-coding-computer-gif-19684211](https://tenor.com/buKVr.gif)">
 
 ## Let's Connect!
 
