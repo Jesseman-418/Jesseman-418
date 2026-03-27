@@ -1,11 +1,11 @@
-# Hey, I'm Jesse! 👋
+# Hey, I'm Jesse 👋
 
-**Software Engineer** building intelligent systems with AI/ML, full-stack web, and systems programming.
+**Software Engineer & Growth Operator** — I build intelligent systems and partner with creators to launch digital products.
 
-Open to software engineering roles.
+Currently: Final-year B.Tech CS & AI at VIT Chennai. Former SWE Intern at Hyundai Motor India. Building [Growth Operating](https://jesseman-dev.vercel.app).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njd-jesse)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JessE_418)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jesseman-dev.vercel.app)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/JessE1811)
 
 ---
@@ -18,8 +18,8 @@ Open to software engineering roles.
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](#)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
 
 **Backend & APIs**
 
@@ -50,35 +50,50 @@ Open to software engineering roles.
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 
 ---
 
 ## Featured Projects
 
-### AI / Machine Learning
+### 🔬 AI / Machine Learning
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Data Cleaning Env**](https://github.com/Jesseman-418/data-cleaning-env) | AI environment for training agents to clean messy tabular data. 3 difficulty tiers, multi-dimensional grading. | FastAPI, Gradio, PyTorch |
-| [**DocQA AI**](https://github.com/Jesseman-418/docqa-ai) | Document Q&A using RAG pipeline — upload PDFs, ask questions, get answers with source citations. | FAISS, Sentence-Transformers, Streamlit |
-| [**Adversarial MARL Defense**](https://github.com/Jesseman-418/adversarial-marl-defense) | FGSM adversarial attacks and defenses with multi-agent reinforcement learning on MNIST. | TensorFlow, NumPy, Matplotlib |
+| [**ViT Activation Functions**](https://github.com/Jesseman-418/vit-activation-functions-capstone) | Capstone research — impact of activation functions on Vision Transformers. 93.68% accuracy on CIFAR-10. | PyTorch, timm, DINO SSL |
+| [**Data Cleaning Env**](https://github.com/Jesseman-418/data-cleaning-env) | RL environment for training AI agents to clean messy data. 3 difficulty tiers. *(Scaler x Meta Hackathon)* | FastAPI, Gradio, PyTorch |
+| [**DocQA AI**](https://github.com/Jesseman-418/docqa-ai) | Document Q&A using RAG — upload PDFs, ask questions, get cited answers. | FAISS, Sentence-Transformers, Streamlit |
+| [**Adversarial MARL Defense**](https://github.com/Jesseman-418/adversarial-marl-defense) | FGSM adversarial attacks & multi-agent defenses on MNIST. | TensorFlow, NumPy |
 
-### Full-Stack & Backend
+### 🛠 Full-Stack & Backend
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Real-time Chat API**](https://github.com/Jesseman-418/realtime-chat-api) | Chat backend with WebSocket real-time messaging, JWT auth, rooms, typing indicators. 20 tests. | FastAPI, WebSockets, SQLAlchemy |
-| [**TaskFlow**](https://github.com/Jesseman-418/taskflow) | Full-stack Kanban board with drag-and-drop, multiple boards, search/filter, server actions. | Next.js 14, TypeScript, Prisma |
-| [**PollChain**](https://github.com/Jesseman-418/Pollchain-frontend) | Blockchain-based voting app with MetaMask wallet integration, poll creation, and live results. | Next.js, TypeScript, ethers.js |
+| [**Real-time Chat API**](https://github.com/Jesseman-418/realtime-chat-api) | Chat backend — WebSockets, JWT auth, rooms, typing indicators, 20 tests. | FastAPI, SQLAlchemy |
+| [**TaskFlow**](https://github.com/Jesseman-418/taskflow) | Full-stack Kanban board — drag-and-drop, search/filter, server actions. | Next.js 14, Prisma, TypeScript |
+| [**PollChain**](https://github.com/Jesseman-418/Pollchain-frontend) | Blockchain voting app — MetaMask integration, live results. | Next.js, ethers.js, TypeScript |
+| [**Growth Operating**](https://github.com/Jesseman-418/portfolio-site) | Business site for creator partnerships — revenue calculator, dark UI. | Next.js 14, Tailwind CSS |
 
-### CLI & Systems
+### ⌨️ CLI & Systems
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**JobHunt**](https://github.com/Jesseman-418/jobhunt) | CLI job application tracker — add, list, filter, stats dashboard, CSV export. | Go, Cobra, SQLite |
+| [**JobHunt**](https://github.com/Jesseman-418/jobhunt) | CLI job tracker — add, filter, stats dashboard, CSV export. Pure-Go SQLite. | Go, Cobra, SQLite |
+
+### 📄 Published Research
+| Paper | Description |
+|-------|-------------|
+| [**Contact Tracing (IEEE Xplore)**](https://github.com/Jesseman-418/Contact-Tracing-using-Ball-tree-Algorithm) | Ball-tree spatial indexing for efficient nearest-neighbor contact tracing at scale. |
+
+---
+
+## What I'm Working On
+
+- 🏗️ **Growth Operating** — partnering with creators to build & launch digital products ([jesseman-dev.vercel.app](https://jesseman-dev.vercel.app))
+- 🎓 **Capstone** — Vision Transformer activation function research (VIT Chennai)
+- 🏆 **Scaler x Meta Hackathon** — Data Cleaning AI Environment (Team Devgods)
 
 ---
 
 <p align="center">
-  <i>Open to software engineering roles. Let's connect!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesseman-418&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
