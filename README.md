@@ -2,7 +2,7 @@
 
 **Software Engineer** building intelligent systems with AI/ML, full-stack web, and systems programming.
 
-Currently competing in the **Scaler x Meta PyTorch OpenEnv Hackathon 2026** and looking for software engineering roles.
+Open to software engineering roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njd-jesse)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JessE_418)
@@ -61,7 +61,7 @@ Currently competing in the **Scaler x Meta PyTorch OpenEnv Hackathon 2026** and 
 ### AI / Machine Learning
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Data Cleaning Env**](https://github.com/Jesseman-418/data-cleaning-env) | AI environment for training agents to clean messy tabular data. 3 difficulty tiers, multi-dimensional grading. *Scaler x Meta Hackathon 2026.* | FastAPI, Gradio, PyTorch |
+| [**Data Cleaning Env**](https://github.com/Jesseman-418/data-cleaning-env) | AI environment for training agents to clean messy tabular data. 3 difficulty tiers, multi-dimensional grading. | FastAPI, Gradio, PyTorch |
 | [**DocQA AI**](https://github.com/Jesseman-418/docqa-ai) | Document Q&A using RAG pipeline — upload PDFs, ask questions, get answers with source citations. | FAISS, Sentence-Transformers, Streamlit |
 | [**Adversarial MARL Defense**](https://github.com/Jesseman-418/adversarial-marl-defense) | FGSM adversarial attacks and defenses with multi-agent reinforcement learning on MNIST. | TensorFlow, NumPy, Matplotlib |
 
