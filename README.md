@@ -86,14 +86,6 @@ Currently: Final-year B.Tech CS & AI at VIT Chennai. Former SWE Intern at Hyunda
 
 ---
 
-## What I'm Working On
-
-- 🏗️ **Growth Operating** — partnering with creators to build & launch digital products ([jesseman-dev.vercel.app](https://jesseman-dev.vercel.app))
-- 🎓 **Capstone** — Vision Transformer activation function research (VIT Chennai)
-- 🏆 **Scaler x Meta Hackathon** — Data Cleaning AI Environment (Team Devgods)
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jesseman-418&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
